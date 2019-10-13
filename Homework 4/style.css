@@ -1,0 +1,14 @@
+body{
+	background-image: url(https://dnlzsmybcpo0z.cloudfront.net/games/images/6f15dc8a6de30d72baabf87b139c7030.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
